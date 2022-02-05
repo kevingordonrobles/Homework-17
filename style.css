@@ -1,3 +1,23 @@
 
+.navBar {
 display: inline-block;
-vertical-align: top; 
+vertical-align: top;
+
+}
+body{
+    background-color: black;
+    color: white;
+}
+p {
+    text-align: center;
+    color: white;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
